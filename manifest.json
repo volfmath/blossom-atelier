@@ -1,0 +1,22 @@
+{
+  "name": "花语花束工坊 · Blossom Atelier",
+  "short_name": "花语花束",
+  "description": "阳光花房鲜切花整理与临街橱窗经营",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#261C15",
+  "theme_color": "#261C15",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
